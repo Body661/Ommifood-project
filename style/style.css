@@ -1232,13 +1232,13 @@ header nav li:last-of-type:hover {
       from(rgba(235, 151, 78, 0.35)),
       to(rgba(230, 125, 34, 0.35))
     ),
-    url("../img/eating.jpg");
+    url("../img/eating.jpeg");
   background-image: linear-gradient(
       to right bottom,
       rgba(235, 151, 78, 0.35),
       rgba(230, 125, 34, 0.35)
     ),
-    url("../img/eating.jpg");
+    url("../img/eating.jpeg");
   background-size: cover;
   background-position: center;
 }
